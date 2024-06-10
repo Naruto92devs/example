@@ -1,9 +1,8 @@
-import logo from './logo.svg';
 import './App.css';
 
 function App() {
   return (
-    <h1>Hello this is branch amir</h1>
+    <h1>Hello this is dev branch and it's working</h1>
   );
 }
 
