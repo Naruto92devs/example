@@ -2,7 +2,7 @@ import './App.css';
 
 function App() {
   return (
-    <h1>Hello this is dev branch and it's working</h1>
+    <h1>New branch amir123</h1>
   );
 }
 
